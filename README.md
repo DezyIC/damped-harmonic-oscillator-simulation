@@ -13,6 +13,9 @@ The system is governed by a second-order differential equation derived from Newt
 ## 📊 Results
 The simulation shows how damping causes oscillatory motion to decay over time.
 
+## 📈 Output
+![Simulation Result](output.png)
+
 ## 🧠 Skills Demonstrated
 - Mathematical modeling
 - Differential equations
